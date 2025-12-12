@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=nageshwar8296-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/nageshwar8296-bit?label=Followers&style=social" alt="followers" />
 </p>
 
 ## 🚀 About Me
@@ -104,22 +104,22 @@ Passionate about applying cutting-edge technology to solve agricultural challeng
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nageshwar8296-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshwar8296-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nageshwar8296-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nageshwar8296-bit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nageshwar8296-bit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Areas of Expertise
@@ -186,8 +186,8 @@ Source Systems → Ingestion → Storage → Processing → Serving → Consumpt
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=crop-yield-prediction&theme=tokyonight)](https://github.com/YOUR_USERNAME/crop-yield-prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=customer-segmentation&theme=tokyonight)](https://github.com/YOUR_USERNAME/customer-segmentation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nageshwar8296-bit&repo=crop-yield-prediction&theme=tokyonight)](https://github.com/nageshwar8296-bit/crop-yield-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nageshwar8296-bit&repo=customer-segmentation&theme=tokyonight)](https://github.com/nageshwar8296-bit/customer-segmentation)
 
 </div>
 
@@ -214,7 +214,7 @@ Source Systems → Ingestion → Storage → Processing → Serving → Consumpt
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nageshwar8296-bit/nageshwar8296-bit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
