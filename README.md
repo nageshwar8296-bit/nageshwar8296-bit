@@ -9,25 +9,35 @@
 
 ## 🚀 About Me
 
-```python
-class BusinessAnalyst:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Business Analyst & Data Scientist"
-        self.expertise = {
-            "business": ["Requirements Analysis", "Process Optimization", "Stakeholder Management"],
-            "data_science": ["Machine Learning", "Deep Learning", "Predictive Analytics"],
-            "data_engineering": ["ETL Pipelines", "Data Warehousing", "Big Data Processing"],
-            "domain": ["Agriculture Technology", "Precision Farming", "Crop Analytics"]
-        }
-        self.current_focus = "Leveraging AI/ML for Agricultural Innovation"
+👋 **Business Analyst & Data Scientist**
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
+I'm passionate about transforming data into actionable insights and bridging the gap between business needs and technical solutions.
 
-me = BusinessAnalyst()
-me.say_hi()
-```
+### 💼 My Expertise
+
+**Business Analysis**
+- Requirements Analysis
+- Process Optimization
+- Stakeholder Management
+
+**Data Science**
+- Machine Learning
+- Deep Learning
+- Predictive Analytics
+
+**Data Engineering**
+- ETL Pipelines
+- Data Warehousing
+- Big Data Processing
+
+**Domain Specialization**
+- Agriculture Technology
+- Precision Farming
+- Crop Analytics
+
+🎯 **Current Focus**: Leveraging AI/ML for Agricultural Innovation
+
+💬 Thanks for dropping by! Let's connect and build something amazing together!
 
 ## 🎯 What I Do
 
