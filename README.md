@@ -31,8 +31,6 @@
 
 🎯 **Current Focus**: Leveraging AI/ML for Agricultural Innovation
 
-
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -65,6 +63,15 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nageshwar8296-bit&repo=crop-yield-prediction&theme=tokyonight)](https://github.com/nageshwar8296-bit/crop-yield-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nageshwar8296-bit&repo=customer-segmentation&theme=tokyonight)](https://github.com/nageshwar8296-bit/customer-segmentation)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -86,20 +93,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nageshwar8296-bit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-
 ## 🎬 My Skillset in Motion
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nageshwar8296-bit&repo=crop-yield-prediction&theme=tokyonight)](https://github.com/nageshwar8296-bit/crop-yield-prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nageshwar8296-bit&repo=customer-segmentation&theme=tokyonight)](https://github.com/nageshwar8296-bit/customer-segmentation)
-
 </div>
 
 ## 💬 Thanks for dropping by! Let's connect and build something amazing together!
@@ -110,7 +107,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-
 </div>
 
 ## 💡 Random Dev Quote
@@ -118,7 +114,6 @@
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
