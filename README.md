@@ -99,16 +99,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 </div>
 
-## 💬 Thanks for dropping by! Let's connect and build something amazing together!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -123,3 +113,5 @@
   ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
 </div>
+
+# nageshwar8296-bit
