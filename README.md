@@ -67,25 +67,16 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nageshwar8296-bit&repo=crop-yield-prediction&theme=tokyonight)](https://github.com/nageshwar8296-bit/crop-yield-prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nageshwar8296-bit&repo=customer-segmentation&theme=tokyonight)](https://github.com/nageshwar8296-bit/customer-segmentation)
 
 </div>
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nageshwar8296-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nageshwar8296-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nageshwar8296-bit&theme=tokyo-night&area=true" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nageshwar8296-bit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nageshwar8296-bit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 ## 🏆 GitHub Trophies
 
