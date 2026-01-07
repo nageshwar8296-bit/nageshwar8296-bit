@@ -91,7 +91,6 @@ HIDDEN_TROPHIES -->
 
 ---
 
-<!-- HIDDEN_QUOTE
 ## 💡 Random Dev Quote
 
 <div align="center">
@@ -105,5 +104,3 @@ HIDDEN_TROPHIES -->
 </div>
 
 ---
-
-HIDDEN_QUOTE -->
