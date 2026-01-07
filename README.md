@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=32cd32&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi%20%F0%9F%91%8B%20I'm%20a%20Business%20Analyst%3BData%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Engineer%3BTransforming%20Agriculture%20with%20Data" alt="Typing SVG" />
 </h1>
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nageshwar8296-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/nageshwar8296-bit?label=Followers&style=social" alt="followers" />
-</p>
-
 ### 💼 My Expertise
 
 **Business Analysis**
@@ -31,7 +25,6 @@
 - Crop Analytics
 
 🎯 **Current Focus**: Leveraging AI/ML for Agricultural Innovation
-
 
 ## 💻 Tech Stack
 
@@ -100,3 +93,9 @@
 ### 💭 "Data is the new oil, and I'm here to utilize it!"
 
 </div>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nageshwar8296-bit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/nageshwar8296-bit?label=Followers&style=social" alt="followers" />
+</p>
