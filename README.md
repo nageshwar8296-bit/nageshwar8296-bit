@@ -59,14 +59,14 @@
 ---
 
 <!-- HIDDEN_PROJECTS
+
 ## 🌟 Featured Projects
 
 <div align="center">
 
 </div>
-
-
 HIDDEN_PROJECTS -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -95,9 +95,9 @@ HIDDEN_TROPHIES -->
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="800">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 ### 💭 "Data is the new oil, and I'm here to utilize it!"
 
