@@ -58,14 +58,16 @@
 
 ---
 
+<!-- HIDDEN_PROJECTS
 ## 🌟 Featured Projects
 
 <div align="center">
 
 </div>
 
-HIDDEN_PROJECTS -->
 
+HIDDEN_PROJECTS -->
+HIDDEN_PROJECTS -->
 ## 📊 GitHub Stats
 
 <div align="center">
