@@ -63,12 +63,14 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+<!-- HIDDEN_PROJECTS
 ## 🌟 Featured Projects
 
 <div align="center">
 
 </div>
 
+HIDDEN_PROJECTS -->
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,6 +90,7 @@
 </div>
 
 ---
+
 ## 💡 Random Dev Quote
 
 <div align="center">
