@@ -67,7 +67,6 @@
 
 
 HIDDEN_PROJECTS -->
-HIDDEN_PROJECTS -->
 ## 📊 GitHub Stats
 
 <div align="center">
