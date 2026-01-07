@@ -77,12 +77,14 @@ HIDDEN_PROJECTS -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nageshwar8296-bit&theme=tokyo-night&area=true" alt="Contribution Graph" />
 </div>
 
+<!-- HIDDEN_TROPHIES
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nageshwar8296-bit&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+HIDDEN_TROPHIES -->
 ## 🎬 My Skillset in Motion
 
 <div align="center">
