@@ -99,7 +99,7 @@ HIDDEN_TROPHIES -->
 
 <img src="assets/pacman_one_chance_v4.gif" width="800">
 
-<!-- HIDDEN_QUOTE ### 💭 "Data is the new oil, and I'm here to utilize it!" HIDDEN_QUOTE -->
+### 💭 "Data is the new oil, and I'm here to utilize it!"
 
 </div>
 
