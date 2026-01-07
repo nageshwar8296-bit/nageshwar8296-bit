@@ -84,7 +84,7 @@
 ## 🎬 My Skillset in Motion
 
 <div align="center">
-  <img src="assets/skillset-pixel-art.png" width="600" alt="My Skillset Animation">
+  <img src="assets/skillset-pixel-art.png" width="800" alt="My Skillset Animation">
 </div>
 
 ---
